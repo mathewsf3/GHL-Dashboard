@@ -29,7 +29,8 @@ export function middleware(request: NextRequest) {
     // Check if user has valid auth token
     if (!authCookie || authCookie.value !== validToken) {
       // Redirect to login page
-      return NextResponse.redirect(new URL('/landing', request.url));
+      const loginUrl = new URL('/login', request.url);
+      return NextResponse.redirect(loginUrl);
     }
   }
   
