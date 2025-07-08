@@ -14,6 +14,12 @@
     },
     "src/app/api/lead-finder/search/route.ts": {
       "maxDuration": 30
+    },
+    "src/app/api/test-deploy/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/debug-env/route.ts": {
+      "maxDuration": 10
     }
   }
 }
