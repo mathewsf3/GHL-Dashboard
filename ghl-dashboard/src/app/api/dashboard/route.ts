@@ -2,10 +2,11 @@ import { NextResponse } from 'next/server';
 import { DashboardMetrics } from '@/types/dashboard';
 import { getFieldName, parseFieldValue, FIELD_IDS } from '@/config/ghl-field-mappings';
 import { env } from '@/config/env';
+import { runtimeEnv } from '@/lib/env-loader';
 
 async function fetchMetaAdSpend(dateRange: { startDate: Date; endDate: Date }): Promise<number> {
   const response = await fetch(
-    `https://graph.facebook.com/v18.0/${env.META_ACCOUNT_ID}/insights?` +
+    `https://graph.facebook.com/v18.0/${runtimeEnv.META_ACCOUNT_ID}/insights?` +
     new URLSearchParams({
       fields: 'spend',
       time_range: JSON.stringify({
@@ -13,7 +14,7 @@ async function fetchMetaAdSpend(dateRange: { startDate: Date; endDate: Date }): 
         until: dateRange.endDate.toISOString().split('T')[0]
       }),
       level: 'account',
-      access_token: env.META_ACCESS_TOKEN
+      access_token: runtimeEnv.META_ACCESS_TOKEN
     }),
     { signal: AbortSignal.timeout(10000) }
   );
@@ -56,7 +57,7 @@ async function fetchGHLMetricsByCustomFields(dateRange: { startDate: Date; endDa
         page: page.toString()
       }), 
       {
-        headers: { 'Authorization': `Bearer ${env.GHL_API_KEY}` },
+        headers: { 'Authorization': `Bearer ${runtimeEnv.GHL_API_KEY}` },
         signal: AbortSignal.timeout(30000)
       }
     );
