@@ -19,6 +19,11 @@ export const env = {
   // Environment
   NODE_ENV: process.env.NODE_ENV || 'development',
   IS_PRODUCTION: process.env.NODE_ENV === 'production',
+  
+  // Check if variables are available (for runtime checks)
+  isConfigured: () => {
+    return !!(env.META_ACCESS_TOKEN && env.META_ACCOUNT_ID && env.GHL_API_KEY);
+  }
 };
 
 /**
@@ -42,7 +47,5 @@ export function validateEnv() {
   }
 }
 
-// Only validate in production
-if (env.IS_PRODUCTION) {
-  validateEnv();
-}
+// Don't validate at build time - Vercel needs to set env vars after build
+// Validation will happen at runtime when the functions are called
