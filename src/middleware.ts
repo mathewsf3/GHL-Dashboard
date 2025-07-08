@@ -23,7 +23,8 @@ export function middleware(request: NextRequest) {
   
   // Simple token-based auth - in production, use proper JWT or session management
   // Note: Middleware runs on Edge runtime, so we can't access process.env directly
-  const validToken = 'ghl-dashboard-2025-secure-token-xyz123'; // Update this to match your DASHBOARD_AUTH_TOKEN in Vercel
+  // You need to update this hardcoded value to match your DASHBOARD_AUTH_TOKEN in Vercel
+  const validToken = process.env.DASHBOARD_AUTH_TOKEN || 'ghl-dashboard-2025-secure-token-xyz123';
   
   if (isProtectedRoute) {
     // Check if user has valid auth token
