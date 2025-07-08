@@ -8,7 +8,6 @@ import {
   BarChart3, 
   Menu, 
   X, 
-  TrendingUp,
   Sparkles,
   ChevronRight,
   Settings,
@@ -99,15 +98,13 @@ export function Sidebar() {
               <div className="p-6 border-b border-slate-800/50">
                 <motion.div
                   whileHover={{ scale: 1.02 }}
-                  className="flex items-center gap-3"
+                  className="flex items-center justify-center"
                 >
-                  <div className="w-10 h-10 bg-gradient-to-br from-purple-600 to-blue-600 rounded-xl flex items-center justify-center shadow-lg">
-                    <TrendingUp className="h-5 w-5 text-white" />
-                  </div>
-                  <div>
-                    <h2 className="text-lg font-bold text-white">GHL Dashboard</h2>
-                    <p className="text-xs text-slate-400">Analytics Platform</p>
-                  </div>
+                  <img 
+                    src="/logo.png" 
+                    alt="Logo" 
+                    className="h-12 w-auto"
+                  />
                 </motion.div>
               </div>
 
