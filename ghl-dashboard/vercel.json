@@ -1,6 +1,6 @@
 {
   "framework": "nextjs",
-  "buildCommand": "npm run build",
+  "buildCommand": "npm install && npm run build",
   "outputDirectory": ".next",
   "devCommand": "npm run dev",
   "installCommand": "npm install",
@@ -18,5 +18,11 @@
   },
   "env": {
     "NODE_ENV": "production"
-  }
+  },
+  "builds": [
+    {
+      "src": "package.json",
+      "use": "@vercel/next"
+    }
+  ]
 }
