@@ -34,9 +34,13 @@ export function middleware(request: NextRequest) {
     }
   }
   
-  // For API routes, check authorization header
+  // For API routes, check authorization header OR auth cookie
   if (request.nextUrl.pathname.startsWith('/api/') && !request.nextUrl.pathname.startsWith('/api/health')) {
-    if (!authHeader || authHeader !== `Bearer ${validToken}`) {
+    // Allow access if user has valid auth cookie (browser session) OR authorization header (API access)
+    const hasValidCookie = authCookie && authCookie.value === validToken;
+    const hasValidHeader = authHeader && authHeader === `Bearer ${validToken}`;
+    
+    if (!hasValidCookie && !hasValidHeader) {
       return NextResponse.json(
         { error: 'Unauthorized' },
         { status: 401 }
