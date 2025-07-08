@@ -1,0 +1,3 @@
+@echo off
+echo Starting GHL Dashboard in development mode...
+node node_modules\next\dist\bin\next dev

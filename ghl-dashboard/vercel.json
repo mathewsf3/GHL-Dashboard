@@ -1,0 +1,22 @@
+{
+  "framework": "nextjs",
+  "buildCommand": "npm run build",
+  "outputDirectory": ".next",
+  "devCommand": "npm run dev",
+  "installCommand": "npm install",
+  "regions": ["iad1"],
+  "functions": {
+    "src/app/api/dashboard/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/creative-analysis/route.ts": {
+      "maxDuration": 30
+    },
+    "src/app/api/lead-finder/search/route.ts": {
+      "maxDuration": 30
+    }
+  },
+  "env": {
+    "NODE_ENV": "production"
+  }
+}

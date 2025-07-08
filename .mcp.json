@@ -1,0 +1,50 @@
+{
+  "mcpServers": {
+    "memory-bank-mcp": {
+      "command": "npx",
+      "args": [
+        "@smithery/cli@latest",
+        "run",
+        "@alioshr/memory-bank-mcp",
+        "--config",
+        "{\"memoryBankRoot\":\"C:\\\\Users\\\\mathe\\\\Desktop\\\\D-API\"}"
+      ]
+    },
+    "@21st-dev/magic": {
+      "command": "npx",
+      "args": [
+        "@21st-dev/magic@latest",
+        "API_KEY=892480f5abe75934d0b9b369c61588d727da75ed84570f9ce7ed8f516b1cbabb"
+      ]
+    },
+    "Context7": {
+      "command": "npx",
+      "args": [
+        "@upstash/context7-mcp"
+      ]
+    },
+    "@magicuidesign/mcp": {
+      "command": "npx",
+      "args": [
+        "@magicuidesign/mcp@latest"
+      ]
+    },
+    "sequential-thinking": {
+      "command": "npx",
+      "args": [
+        "@modelcontextprotocol/server-sequential-thinking"
+]
+},
+    "supabase": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@supabase/mcp-server-supabase@latest",
+        "--project-ref=muotaqoydkpxjbxsrqpn"
+      ],
+      "env": {
+        "SUPABASE_ACCESS_TOKEN": "sbp_ee9681f1be65047d58a866c708b644b508fc18ec"1
+      }
+    }
+  }
+}

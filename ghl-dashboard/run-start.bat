@@ -1,0 +1,3 @@
+@echo off
+echo Starting GHL Dashboard in production mode...
+npx next start

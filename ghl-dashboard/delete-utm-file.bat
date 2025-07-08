@@ -1,0 +1,1 @@
+rm C:\Users\mathe\Desktop\GHL\ghl-dashboard\src\config\utm-tracking-fields.ts

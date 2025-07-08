@@ -1,0 +1,779 @@
+{
+  "discovery_data": {
+    "account": {
+      "id": "act_586708888754645",
+      "name": "Funding Accelerator",
+      "account_status": 3,
+      "currency": "USD",
+      "timezone_name": "America/Los_Angeles",
+      "business": {
+        "id": "823736037959864",
+        "name": "ScaleBold 2"
+      }
+    },
+    "campaigns": {
+      "data": [
+        {
+          "id": "120223951800200765",
+          "name": "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-05-29T07:05:11-0700",
+          "updated_time": "2025-06-13T07:29:17-0700",
+          "start_time": "2025-05-30T23:45:00-0700"
+        },
+        {
+          "id": "120223586252000765",
+          "name": "C0 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-05-23T16:14:42-0700",
+          "updated_time": "2025-05-29T07:23:57-0700",
+          "start_time": "2025-05-24T23:45:00-0700"
+        },
+        {
+          "id": "120222490358870765",
+          "name": "B00 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | Webinar Campaign",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-05-09T09:24:34-0700",
+          "updated_time": "2025-05-23T16:07:46-0700",
+          "start_time": "2025-05-11T23:50:00-0700"
+        },
+        {
+          "id": "120222488367470765",
+          "name": "B00 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | Webinar Campaign",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-05-08T12:12:16-0700",
+          "updated_time": "2025-05-08T12:53:28-0700",
+          "start_time": "2025-05-08T12:12:17-0700"
+        },
+        {
+          "id": "120220514692120765",
+          "name": "A001 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | IG Story | Another $75k Client Funded Image",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-04-24T10:22:44-0700",
+          "updated_time": "2025-05-23T16:04:23-0700",
+          "start_time": "2025-04-24T23:45:00-0700"
+        },
+        {
+          "id": "120217063420720765",
+          "name": "A0 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-03-27T18:07:39-0700",
+          "updated_time": "2025-05-23T16:07:44-0700",
+          "start_time": "2025-03-27T23:45:00-0700"
+        },
+        {
+          "id": "120216594946170765",
+          "name": "02 | FA | Matt | P | Website | Conversions | CC | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-03-19T04:35:04-0700",
+          "updated_time": "2025-03-26T08:09:03-0700",
+          "start_time": "2025-03-19T04:35:05-0700"
+        },
+        {
+          "id": "120216418617580765",
+          "name": "A0 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | Business Loans Vs Credit Card Stacking",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-03-14T10:06:18-0700",
+          "updated_time": "2025-05-22T07:53:20-0700",
+          "start_time": "2025-03-14T23:45:00-0700"
+        },
+        {
+          "id": "120216361623050765",
+          "name": "A0 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO | Business Loans Vs Credit Card Stacking",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-03-13T08:38:04-0700",
+          "updated_time": "2025-03-27T07:57:00-0700",
+          "start_time": "2025-03-13T08:38:05-0700"
+        },
+        {
+          "id": "120214145668330765",
+          "name": "000 | FA | Matt | R1/R2/R3/R4 | ARC Audiences | Website | Conversions | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-02-07T10:40:41-0800",
+          "updated_time": "2025-02-20T07:44:02-0800",
+          "start_time": "2025-02-07T10:40:42-0800"
+        },
+        {
+          "id": "120213996247240765",
+          "name": "A00 | FA | Matt | R1/R2/R3/R4 | Website | Traffic | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_TRAFFIC",
+          "created_time": "2025-02-03T10:41:02-0800",
+          "updated_time": "2025-02-06T18:35:02-0800",
+          "start_time": "2025-02-03T10:41:03-0800"
+        },
+        {
+          "id": "120213718531650765",
+          "name": "00 | FA | Matt | R1/R2/R3/R4 | Website | Conversions | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-27T09:26:00-0800",
+          "updated_time": "2025-04-11T07:58:20-0700",
+          "start_time": "2025-01-27T09:26:01-0800"
+        },
+        {
+          "id": "120213655661420765",
+          "name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-25T12:20:16-0800",
+          "updated_time": "2025-01-26T08:35:12-0800",
+          "start_time": "2025-01-25T12:20:17-0800"
+        },
+        {
+          "id": "120213655542610765",
+          "name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-25T12:16:43-0800",
+          "updated_time": "2025-01-25T12:20:21-0800",
+          "start_time": "2025-01-25T12:19:05-0800"
+        },
+        {
+          "id": "120213655495700765",
+          "name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-25T12:15:22-0800",
+          "updated_time": "2025-06-13T07:24:23-0700",
+          "start_time": "2025-01-26T00:00:00-0800"
+        },
+        {
+          "id": "120213638442370765",
+          "name": "01 | FA | Matt | P | Website | Conversions | ABO |",
+          "status": "PAUSED",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-24T21:40:04-0800",
+          "updated_time": "2025-01-25T12:15:42-0800",
+          "start_time": "2025-01-24T23:45:00-0800"
+        },
+        {
+          "id": "120213638382160765",
+          "name": "(ARC MATT) POST IDS - FUNDING",
+          "status": "ACTIVE",
+          "objective": "OUTCOME_LEADS",
+          "created_time": "2025-01-24T21:30:56-0800",
+          "updated_time": "2025-05-20T08:28:26-0700",
+          "start_time": "2025-01-24T21:30:57-0800"
+        },
+        {
+          "id": "23846992379400764",
+          "name": "University \u25cf NRC | TOF | ABO | DCO \u25cf ScaleBold Page",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2021-04-05T15:46:05-0700",
+          "updated_time": "2021-04-07T07:33:58-0700",
+          "start_time": "2021-04-05T16:30:16-0700"
+        },
+        {
+          "id": "23846992188020764",
+          "name": "Bootcamp \u25cf NRC | TOF | ABO | DCO \u25cf ScaleBold Page",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2021-04-05T15:13:32-0700",
+          "updated_time": "2021-04-08T06:57:44-0700",
+          "start_time": "2021-04-05T16:30:16-0700"
+        },
+        {
+          "id": "23846119602780764",
+          "name": "JC | TOF | Captify - Copy",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-12-01T15:38:58-0800",
+          "updated_time": "2020-12-03T12:08:03-0800",
+          "start_time": "2020-12-01T15:38:59-0800"
+        },
+        {
+          "id": "23846084914610764",
+          "name": "JC | TOF | Captify",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-11-26T15:58:22-0800",
+          "updated_time": "2020-12-01T15:41:32-0800",
+          "start_time": "2020-11-26T15:58:23-0800"
+        },
+        {
+          "id": "23846072111650764",
+          "name": "JC | TOF | Captify - Copy",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-11-24T16:31:11-0800",
+          "updated_time": "2020-11-26T08:22:16-0800",
+          "start_time": "2020-11-24T16:31:13-0800"
+        },
+        {
+          "id": "23846065617770764",
+          "name": "JC | MOF + BOF | Captify",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-11-23T22:08:30-0800",
+          "updated_time": "2020-12-03T12:08:03-0800",
+          "start_time": "2020-11-23T22:08:32-0800"
+        },
+        {
+          "id": "23846065574400764",
+          "name": "JC | TOF | Captify",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-11-23T22:27:37-0800",
+          "updated_time": "2020-11-24T16:32:12-0800",
+          "start_time": "2020-11-23T22:27:39-0800"
+        },
+        {
+          "id": "23845900478060764",
+          "name": "Captify - Lead Conversion",
+          "status": "PAUSED",
+          "objective": "CONVERSIONS",
+          "created_time": "2020-10-27T19:09:51-0700",
+          "updated_time": "2020-11-20T16:11:05-0800",
+          "start_time": "2020-10-27T19:09:52-0700"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "QVFIUnpvQUcybENzcEc3c2xXMXJPOU4zUXlyR09jdjhXVTJ5QTRDc09Vby1Xc0NEYjBGWmFYWnZAiazZAvZAW8zeERuaUJEZAVhERmNLbzF0cThOTkJzY3k2dTBn",
+          "after": "QVFIUmlTN0FHWFliNjFMUUFiTHZAWd0l2VURGalgxZA0xpQTFBMjAzeDd6WUVicjhzWWJQMWhBV19rSTd1ZAEl5dUx2bHRIR2txN0duR0VJeWtXcDZABTkxaNTVn"
+        },
+        "next": "https://graph.facebook.com/v23.0/act_586708888754645/campaigns?fields=id%2Cname%2Cstatus%2Cobjective%2Ccreated_time%2Cupdated_time%2Cstart_time%2Cstop_time&access_token=EAA5tn96zDjABO5HtIZBVpN5aMNgfq9KKjF6JCJfjRKZAxic6H9jmZASNHgNuCb8uTcuv1rjXbtBUCQOQwVwGPBVJouR3ar2C56KxY3Ul69GbQEUECQyxO9BFeXuZAlL0ZBZC6CZBTk3UH5EKYlfG4oMiodr7lbLmFv2WWUd521yTvZBGZB0hottGG3Wnx4ZCnTv4b4aOg7&limit=25&after=QVFIUmlTN0FHWFliNjFMUUFiTHZAWd0l2VURGalgxZA0xpQTFBMjAzeDd6WUVicjhzWWJQMWhBV19rSTd1ZAEl5dUx2bHRIR2txN0duR0VJeWtXcDZABTkxaNTVn"
+      }
+    },
+    "ads": {
+      "data": [
+        {
+          "id": "120225673392390765",
+          "name": "01 | 142 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "status": "PAUSED",
+          "created_time": "2025-06-20T12:48:17-0700",
+          "updated_time": "2025-06-23T06:55:59-0700",
+          "creative": {
+            "id": "1840897089976296"
+          }
+        },
+        {
+          "id": "120225673392400765",
+          "name": "01 | 143 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "status": "PAUSED",
+          "created_time": "2025-06-20T12:48:17-0700",
+          "updated_time": "2025-06-23T06:55:58-0700",
+          "creative": {
+            "id": "4020209514919826"
+          }
+        },
+        {
+          "id": "120225673392360765",
+          "name": "01 | 144 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "status": "PAUSED",
+          "created_time": "2025-06-20T12:48:21-0700",
+          "updated_time": "2025-06-23T06:55:52-0700",
+          "creative": {
+            "id": "1213593906702705"
+          }
+        },
+        {
+          "id": "120225673441850765",
+          "name": "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-20T12:48:21-0700",
+          "updated_time": "2025-06-20T13:27:59-0700",
+          "creative": {
+            "id": "740504971750021"
+          }
+        },
+        {
+          "id": "120225673441820765",
+          "name": "01 | 146 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-20T12:48:24-0700",
+          "updated_time": "2025-06-20T13:27:58-0700",
+          "creative": {
+            "id": "23894395936876106"
+          }
+        },
+        {
+          "id": "120225493784300765",
+          "name": "B0 | 12 | 01 | R3/R4 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122132003900707290",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:18:52-0700",
+          "updated_time": "2025-06-18T09:36:03-0700",
+          "creative": {
+            "id": "1408246297048218"
+          }
+        },
+        {
+          "id": "120225493393360765",
+          "name": "B0 | 14 | 01 | R3/R4 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | 122132003846707290",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:16:35-0700",
+          "updated_time": "2025-06-18T09:32:20-0700",
+          "creative": {
+            "id": "1808611143031804"
+          }
+        },
+        {
+          "id": "120225492223720765",
+          "name": "B0 | 10 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:29-0700",
+          "updated_time": "2025-06-18T09:32:04-0700",
+          "creative": {
+            "id": "646134441786259"
+          }
+        },
+        {
+          "id": "120225493393370765",
+          "name": "B0 | 13 | 01 | R3/R4 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122132003870707290",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:16:35-0700",
+          "updated_time": "2025-06-18T09:31:49-0700",
+          "creative": {
+            "id": "1119613910003080"
+          }
+        },
+        {
+          "id": "120225492063790765",
+          "name": "01 | 139 | 01 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | 122131994108707290",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:02-0700",
+          "updated_time": "2025-06-18T09:28:53-0700",
+          "creative": {
+            "id": "30215072458106921"
+          }
+        },
+        {
+          "id": "120225492223680765",
+          "name": "B0 | 09 | 01 | R1/R2 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | 122131994108707290",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:22-0700",
+          "updated_time": "2025-06-18T09:28:23-0700",
+          "creative": {
+            "id": "587961904357002"
+          }
+        },
+        {
+          "id": "120225493024110765",
+          "name": "R3/R4 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:11:15-0700",
+          "updated_time": "2025-06-18T09:19:49-0700",
+          "creative": {
+            "id": "1041297984773136"
+          }
+        },
+        {
+          "id": "120225493024090765",
+          "name": "R3/R4 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:11:18-0700",
+          "updated_time": "2025-06-18T09:19:42-0700",
+          "creative": {
+            "id": "723614227089536"
+          }
+        },
+        {
+          "id": "120225493164180765",
+          "name": "R3/R4 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:11:15-0700",
+          "updated_time": "2025-06-18T09:19:23-0700",
+          "creative": {
+            "id": "1171392161426533"
+          }
+        },
+        {
+          "id": "120225492871350765",
+          "name": "FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | UGC |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T09:03:40-0700",
+          "updated_time": "2025-06-18T09:14:33-0700",
+          "creative": {
+            "id": "1605879870085870"
+          }
+        },
+        {
+          "id": "120225491871680765",
+          "name": "FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | UGC |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:40:44-0700",
+          "updated_time": "2025-06-18T09:06:22-0700",
+          "creative": {
+            "id": "1273033040821575"
+          }
+        },
+        {
+          "id": "120225491871690765",
+          "name": "FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | UGC |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:40:44-0700",
+          "updated_time": "2025-06-18T09:06:19-0700",
+          "creative": {
+            "id": "3177826022364755"
+          }
+        },
+        {
+          "id": "120225492063840765",
+          "name": "01 | 140 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:02-0700",
+          "updated_time": "2025-06-18T09:05:27-0700",
+          "creative": {
+            "id": "753665793653467"
+          }
+        },
+        {
+          "id": "120225492063830765",
+          "name": "01 | 141 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:07-0700",
+          "updated_time": "2025-06-18T09:04:20-0700",
+          "creative": {
+            "id": "733163065910365"
+          }
+        },
+        {
+          "id": "120225492223730765",
+          "name": "B0 | 11 | 01 | R1/R2 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:47:22-0700",
+          "updated_time": "2025-06-18T09:04:09-0700",
+          "creative": {
+            "id": "707436265234851"
+          }
+        },
+        {
+          "id": "120225491423170765",
+          "name": "FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | UGC |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-18T08:40:48-0700",
+          "updated_time": "2025-06-18T09:02:12-0700",
+          "creative": {
+            "id": "1317833469743701"
+          }
+        },
+        {
+          "id": "120225423716240765",
+          "name": "01 | 137 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-17T11:02:49-0700",
+          "updated_time": "2025-06-17T11:23:16-0700",
+          "creative": {
+            "id": "2503205890051094"
+          }
+        },
+        {
+          "id": "120225119168950765",
+          "name": "01 | 137 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-13T07:25:48-0700",
+          "updated_time": "2025-06-13T08:36:01-0700",
+          "creative": {
+            "id": "1764141094173541"
+          }
+        },
+        {
+          "id": "120225118683130765",
+          "name": "01 | 133 | 01 | FA-Matt-P-Website-v4 | Katie Captions IA Business Owners  | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-13T07:25:52-0700",
+          "updated_time": "2025-06-13T08:35:21-0700",
+          "creative": {
+            "id": "1223017719504804"
+          }
+        },
+        {
+          "id": "120225119358000765",
+          "name": "B0 | 08 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Garret - Does Your Business Need Access To Funding | CO-01C | HE-01C |",
+          "status": "ACTIVE",
+          "created_time": "2025-06-13T07:35:21-0700",
+          "updated_time": "2025-06-13T08:31:13-0700",
+          "creative": {
+            "id": "1023205026460527"
+          }
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "QVFIUnJoMERhQVRRVHBDUGYxd1JPbTZAHcmtGWVgzRWZAtTDFWTHdIbTBsQWxsNFVfUW9VOWIzUjhxOWlIVnVBbUFTUmVOR1FfVVFEOGNjV3ctejhFSXNPT1d3",
+          "after": "QVFIUjZAKZAW4wQU4tYmQ5bkxZAd0N2YXZAITkdNWmNoeHFKTE1ia2FzLTNmcXNmVkozWTRpTmJ4WlZATeHp5Qml2MTJuc0pWX2NNcGo1SzJhOGtTODBhYjIwMjNR"
+        },
+        "next": "https://graph.facebook.com/v23.0/act_586708888754645/ads?fields=id%2Cname%2Cstatus%2Ccreated_time%2Cupdated_time%2Ccreative&access_token=EAA5tn96zDjABO5HtIZBVpN5aMNgfq9KKjF6JCJfjRKZAxic6H9jmZASNHgNuCb8uTcuv1rjXbtBUCQOQwVwGPBVJouR3ar2C56KxY3Ul69GbQEUECQyxO9BFeXuZAlL0ZBZC6CZBTk3UH5EKYlfG4oMiodr7lbLmFv2WWUd521yTvZBGZB0hottGG3Wnx4ZCnTv4b4aOg7&limit=25&after=QVFIUjZAKZAW4wQU4tYmQ5bkxZAd0N2YXZAITkdNWmNoeHFKTE1ia2FzLTNmcXNmVkozWTRpTmJ4WlZATeHp5Qml2MTJuc0pWX2NNcGo1SzJhOGtTODBhYjIwMjNR"
+      }
+    },
+    "insights": {
+      "data": [
+        {
+          "campaign_id": "120223951800200765",
+          "campaign_name": "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |",
+          "adset_id": "120223951800230765",
+          "adset_name": "B0 | 02 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+          "ad_id": "120223951800210765",
+          "ad_name": "B0 | 02 | 01 | FA-Matt-P-Website-V4 | R1/R2 | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds | CO-12B | HE-01C |",
+          "impressions": "4904",
+          "clicks": "181",
+          "spend": "673.11",
+          "cpm": "137.257341",
+          "cpc": "3.71884",
+          "ctr": "3.690865",
+          "reach": "2568",
+          "frequency": "1.909657",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120223951800200765",
+          "campaign_name": "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |",
+          "adset_id": "120223951800190765",
+          "adset_name": "B0 | 01 | FA-Matt-R3-R4-Website | LC | Auto | US | MF | 18-65",
+          "ad_id": "120223951800220765",
+          "ad_name": "B0 | 01 | 01 | FA-Matt-P-Website | R3/R4 | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds | CO-12C | HE-01C |",
+          "impressions": "2689",
+          "clicks": "47",
+          "spend": "602.38",
+          "cpm": "224.016363",
+          "cpc": "12.816596",
+          "ctr": "1.747862",
+          "reach": "291",
+          "frequency": "9.24055",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120223951800200765",
+          "campaign_name": "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |",
+          "adset_id": "120223952669470765",
+          "adset_name": "B0 | 04 | FA-Matt-R1-R2-Website-v4 | LC | Auto | US | MF | 18-65",
+          "ad_id": "120223952669460765",
+          "ad_name": "B0 | 04 | 01 | FA-Matt-P-Website-v4 | R1/R2 | Business Loans Vs Credit Card Stacking | CO-11C | HE-01C |",
+          "impressions": "8",
+          "clicks": "0",
+          "spend": "5.23",
+          "cpm": "653.75",
+          "ctr": "0",
+          "reach": "6",
+          "frequency": "1.333333",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120223951800200765",
+          "campaign_name": "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |",
+          "adset_id": "120223953090440765",
+          "adset_name": "B0 | 03 | FA-Matt-R3-R4-Website | LC | Auto | US | MF | 18-65",
+          "ad_id": "120223953090430765",
+          "ad_name": "B0 | 03 | 01 | FA-Matt-P-Website | R3/R4 | Aged Corporations | CO-18C | HE-01C |",
+          "impressions": "3654",
+          "clicks": "71",
+          "spend": "663.2",
+          "cpm": "181.499726",
+          "cpc": "9.340845",
+          "ctr": "1.943076",
+          "reach": "316",
+          "frequency": "11.563291",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223953167740765",
+          "adset_name": "01 | 126 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223953167720765",
+          "ad_name": "01 | 126 | 01 | FA-Matt-P-Website-v4 | Katie Captions IA Business Owners  | CO-01C | HE-01C |",
+          "impressions": "1352",
+          "clicks": "35",
+          "spend": "196.24",
+          "cpm": "145.147929",
+          "cpc": "5.606857",
+          "ctr": "2.588757",
+          "reach": "1147",
+          "frequency": "1.178727",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223953167730765",
+          "adset_name": "01 | 127 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223953167750765",
+          "ad_name": "01 | 127 | 01 | FA-Matt-P-Website-v4 | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+          "impressions": "195",
+          "clicks": "4",
+          "spend": "43.86",
+          "cpm": "224.923077",
+          "cpc": "10.965",
+          "ctr": "2.051282",
+          "reach": "183",
+          "frequency": "1.065574",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223953246010765",
+          "adset_name": "01 | 129 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223953245990765",
+          "ad_name": "01 | 129 | 01 | FA-Matt-P-Website-v4 | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+          "impressions": "64",
+          "clicks": "0",
+          "spend": "15.41",
+          "cpm": "240.78125",
+          "ctr": "0",
+          "reach": "60",
+          "frequency": "1.066667",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223953246000765",
+          "adset_name": "01 | 128 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223953246020765",
+          "ad_name": "01 | 128 | 01 | FA-Matt-P-Website-v4 | Katie Captions IA Business Owners  | CO-01C | HE-01C |",
+          "impressions": "3907",
+          "clicks": "99",
+          "spend": "576.55",
+          "cpm": "147.568467",
+          "cpc": "5.823737",
+          "ctr": "2.533913",
+          "reach": "2863",
+          "frequency": "1.364652",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223953343530765",
+          "adset_name": "01 | 130 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223953343520765",
+          "ad_name": "01 | 130 | 01 | FA-Matt-P-Website-v4 | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+          "impressions": "224",
+          "clicks": "8",
+          "spend": "56.92",
+          "cpm": "254.107143",
+          "cpc": "7.115",
+          "ctr": "3.571429",
+          "reach": "217",
+          "frequency": "1.032258",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        },
+        {
+          "campaign_id": "120213655495700765",
+          "campaign_name": "01 | FA | Matt | P | Website | Conversions | ABO",
+          "adset_id": "120223971801810765",
+          "adset_name": "01 | 132 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 18-65",
+          "ad_id": "120223971801800765",
+          "ad_name": "01 | 132 | 01 | FA-Matt-P-Website-v4 | FA - Sophie - Creatify AI - Does your business need access to funding but you don't - Advanced AI Edit | CO-01C | HE-01C |",
+          "impressions": "3061",
+          "clicks": "91",
+          "spend": "556.46",
+          "cpm": "181.790265",
+          "cpc": "6.114945",
+          "ctr": "2.972885",
+          "reach": "1964",
+          "frequency": "1.558554",
+          "date_start": "2025-06-02",
+          "date_stop": "2025-07-02"
+        }
+      ],
+      "paging": {
+        "cursors": {
+          "before": "MAZDZD",
+          "after": "OQZDZD"
+        },
+        "next": "https://graph.facebook.com/v23.0/act_586708888754645/insights?fields=campaign_id%2Ccampaign_name%2Cadset_id%2Cadset_name%2Cad_id%2Cad_name%2Cimpressions%2Cclicks%2Cspend%2Ccpm%2Ccpc%2Cctr%2Creach%2Cfrequency%2Cdate_start%2Cdate_stop&time_range=%7B%22since%22%3A+%222025-06-02%22%2C+%22until%22%3A+%222025-07-02%22%7D&level=ad&limit=10&access_token=EAA5tn96zDjABO5HtIZBVpN5aMNgfq9KKjF6JCJfjRKZAxic6H9jmZASNHgNuCb8uTcuv1rjXbtBUCQOQwVwGPBVJouR3ar2C56KxY3Ul69GbQEUECQyxO9BFeXuZAlL0ZBZC6CZBTk3UH5EKYlfG4oMiodr7lbLmFv2WWUd521yTvZBGZB0hottGG3Wnx4ZCnTv4b4aOg7&after=OQZDZD"
+      }
+    },
+    "leadgen": null
+  },
+  "detailed_insights": null,
+  "schema_mapping": {
+    "campaigns": {
+      "table_name": "meta_campaigns",
+      "fields": {
+        "id": "TEXT PRIMARY KEY",
+        "name": "TEXT",
+        "status": "TEXT",
+        "objective": "TEXT",
+        "created_time": "TIMESTAMP",
+        "updated_time": "TIMESTAMP",
+        "start_time": "TIMESTAMP",
+        "stop_time": "TIMESTAMP"
+      }
+    },
+    "adsets": {
+      "table_name": "meta_adsets",
+      "fields": {
+        "id": "TEXT PRIMARY KEY",
+        "campaign_id": "TEXT REFERENCES meta_campaigns(id)",
+        "name": "TEXT",
+        "status": "TEXT",
+        "created_time": "TIMESTAMP",
+        "updated_time": "TIMESTAMP",
+        "start_time": "TIMESTAMP",
+        "end_time": "TIMESTAMP",
+        "daily_budget": "DECIMAL(10,2)",
+        "lifetime_budget": "DECIMAL(10,2)",
+        "targeting": "JSONB"
+      }
+    },
+    "ads": {
+      "table_name": "meta_ads",
+      "fields": {
+        "id": "TEXT PRIMARY KEY",
+        "campaign_id": "TEXT",
+        "adset_id": "TEXT REFERENCES meta_adsets(id)",
+        "name": "TEXT",
+        "status": "TEXT",
+        "created_time": "TIMESTAMP",
+        "updated_time": "TIMESTAMP",
+        "creative": "JSONB"
+      }
+    },
+    "insights": {
+      "table_name": "meta_insights",
+      "fields": {
+        "id": "SERIAL PRIMARY KEY",
+        "account_id": "TEXT",
+        "campaign_id": "TEXT",
+        "campaign_name": "TEXT",
+        "adset_id": "TEXT",
+        "adset_name": "TEXT",
+        "ad_id": "TEXT",
+        "ad_name": "TEXT",
+        "date_start": "DATE",
+        "date_stop": "DATE",
+        "impressions": "BIGINT",
+        "clicks": "BIGINT",
+        "spend": "DECIMAL(10,2)",
+        "reach": "BIGINT",
+        "frequency": "DECIMAL(5,2)",
+        "cpm": "DECIMAL(8,2)",
+        "cpc": "DECIMAL(8,2)",
+        "ctr": "DECIMAL(5,2)",
+        "cpp": "DECIMAL(8,2)",
+        "conversions": "DECIMAL(10,2)",
+        "conversion_rate": "DECIMAL(5,2)",
+        "cost_per_conversion": "DECIMAL(8,2)",
+        "video_views": "BIGINT",
+        "video_view_rate": "DECIMAL(5,2)",
+        "link_clicks": "BIGINT",
+        "post_engagement": "BIGINT"
+      }
+    }
+  },
+  "timestamp": "20250702_171818"
+}

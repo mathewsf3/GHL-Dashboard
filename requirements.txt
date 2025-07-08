@@ -1,0 +1,9 @@
+requests==2.31.0
+python-dotenv==1.0.0
+supabase==2.4.0
+gotrue==2.4.1
+httpx==0.25.2
+postgrest==0.13.0
+realtime==1.0.2
+storage3==0.7.0
+supafunc==0.3.3

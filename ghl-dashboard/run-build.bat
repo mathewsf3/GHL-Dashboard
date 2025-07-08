@@ -1,0 +1,3 @@
+@echo off
+echo Building GHL Dashboard for production...
+npx next build

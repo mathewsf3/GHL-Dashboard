@@ -1,0 +1,3 @@
+@echo off
+echo Building GHL Dashboard for production...
+node node_modules\next\dist\bin\next build

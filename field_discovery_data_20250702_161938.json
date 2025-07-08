@@ -1,0 +1,668 @@
+{
+  "analyzed_fields": {
+    "XipmrnXqV46DDxVrDiYS": {
+      "field_id": "XipmrnXqV46DDxVrDiYS",
+      "total_contacts": 375,
+      "unique_values": 7,
+      "sample_values": [
+        "ig_Instagram_Feed",
+        "ig_Instagram_Feed",
+        "ig_Instagram_Feed",
+        "fb_Facebook_Mobile_Reels",
+        "ig_Instagram_Feed"
+      ],
+      "all_values": [
+        "_",
+        "fb_Facebook_Mobile_Feed",
+        "fb_Facebook_Mobile_Reels",
+        "ig_Instagram_Explore",
+        "ig_Instagram_Feed",
+        "ig_Instagram_Reels",
+        "ig_Instagram_Stories"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "VVOSFbxXpsppfHox2jhI": {
+      "field_id": "VVOSFbxXpsppfHox2jhI",
+      "total_contacts": 375,
+      "unique_values": 2,
+      "sample_values": [
+        "Under $150k Yearly",
+        "Under $150k Yearly",
+        "Under $150k Yearly",
+        "Under $150k Yearly",
+        "Under $150k Yearly"
+      ],
+      "all_values": [
+        "Above $150k Yearly",
+        "Under $150k Yearly"
+      ],
+      "data_type": "CURRENCY",
+      "likely_purpose": "GENERAL"
+    },
+    "Q0KWavjuX7YuGrtJaC6k": {
+      "field_id": "Q0KWavjuX7YuGrtJaC6k",
+      "total_contacts": 370,
+      "unique_values": 11,
+      "sample_values": [
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 146 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 140 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads"
+      ],
+      "all_values": [
+        "01 | 140 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 141 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 146 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 50 | FA-Matt-P-Website | LC | Auto | Broad | US | MF | 18-65",
+        "01 | 51 | FA-Matt-P-Website | LC | Auto | Return On Investment | US | MF | 18-65",
+        "B0 | 02 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 06 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 07 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 09 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 10 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "OxRcLPgUtGHNecgWSnpB": {
+      "field_id": "OxRcLPgUtGHNecgWSnpB",
+      "total_contacts": 365,
+      "unique_values": 2,
+      "sample_values": [
+        "No",
+        "No",
+        "No",
+        "No",
+        "No"
+      ],
+      "all_values": [
+        "No",
+        "Yes"
+      ],
+      "data_type": "BOOLEAN",
+      "likely_purpose": "GENERAL"
+    },
+    "cj09pOhxqE4WOOKqQVhK": {
+      "field_id": "cj09pOhxqE4WOOKqQVhK",
+      "total_contacts": 370,
+      "unique_values": 2,
+      "sample_values": [
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO"
+      ],
+      "all_values": [
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "j4KihL9HZzwqTCEbai8b": {
+      "field_id": "j4KihL9HZzwqTCEbai8b",
+      "total_contacts": 365,
+      "unique_values": 6,
+      "sample_values": [
+        "680-699",
+        "680-699",
+        "Less than 680",
+        "Less than 680",
+        "Less than 680"
+      ],
+      "all_values": [
+        "680-699",
+        "700-719",
+        "720-750",
+        "751-779",
+        "780+",
+        "Less than 680"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "CREDIT_SCORE"
+    },
+    "UAkQthswkKrPlIWQ5Mtk": {
+      "field_id": "UAkQthswkKrPlIWQ5Mtk",
+      "total_contacts": 380,
+      "unique_values": 8,
+      "sample_values": [
+        "$1k-$5k",
+        "$1k-$5k",
+        "$1k-$5k",
+        "Less than $1k",
+        "Less than $1k"
+      ],
+      "all_values": [
+        "$10k-$30k",
+        "$120k+",
+        "$1k-$5k",
+        "$30k-$50k",
+        "$50k-$80k",
+        "$5k-$10k",
+        "$80k-$120k",
+        "Less than $1k"
+      ],
+      "data_type": "CURRENCY",
+      "likely_purpose": "CAPITAL_AMOUNT"
+    },
+    "dydJfZGjUkyTmGm4OIef": {
+      "field_id": "dydJfZGjUkyTmGm4OIef",
+      "total_contacts": 370,
+      "unique_values": 11,
+      "sample_values": [
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 146 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 140 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |"
+      ],
+      "all_values": [
+        "01 | 140 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 141 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 146 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 50 | 01 | FA-Matt-P-Website | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+        "01 | 51 | 01 | FA-Matt-P-Website | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+        "B0 | 02 | 01 | FA-Matt-P-Website-V4 | R1/R2 | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds | CO-12B | HE-01C |",
+        "B0 | 06 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Oscar Creatify AI | 1.25x I never thought it'd be possible to get 100k with | CO-28C | HE-01C |",
+        "B0 | 07 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Jen Creatify AI | 1.25x Speed - Never thought it'd be possible to get $100k | CO-27C | HE-01C |",
+        "B0 | 09 | 01 | R1/R2 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | 122131994108707290",
+        "B0 | 10 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "klgLSEZH45ChqGWCprJ8": {
+      "field_id": "klgLSEZH45ChqGWCprJ8",
+      "total_contacts": 320,
+      "unique_values": 4,
+      "sample_values": [
+        "['I want to grow my current business']",
+        "['I want to start a new business']",
+        "['I want to grow my current business']",
+        "['I want to grow my current business']",
+        "['I want to grow my current business']"
+      ],
+      "all_values": [
+        "['All the Above']",
+        "['I want to grow my current business']",
+        "['I want to invest and grow my portfolio']",
+        "['I want to start a new business']"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "GENERAL"
+    },
+    "uy0zwqA52VW1JlLfZ6a6": {
+      "field_id": "uy0zwqA52VW1JlLfZ6a6",
+      "total_contacts": 370,
+      "unique_values": 1,
+      "sample_values": [
+        "586708888754645",
+        "586708888754645",
+        "586708888754645",
+        "586708888754645",
+        "586708888754645"
+      ],
+      "all_values": [
+        "586708888754645"
+      ],
+      "data_type": "NUMERIC",
+      "likely_purpose": "GENERAL"
+    },
+    "UHOFwbbvd6VH0qwASmxX": {
+      "field_id": "UHOFwbbvd6VH0qwASmxX",
+      "total_contacts": 380,
+      "unique_values": 4,
+      "sample_values": [
+        "Within the next 30 days",
+        "Yesterday",
+        "Yesterday",
+        "Yesterday",
+        "Yesterday"
+      ],
+      "all_values": [
+        "Within a week",
+        "Within the next 30 days",
+        "Within the next 60 days",
+        "Yesterday"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "GENERAL"
+    },
+    "ezTpZWktcRZAFX2gvuaG": {
+      "field_id": "ezTpZWktcRZAFX2gvuaG",
+      "total_contacts": 370,
+      "unique_values": 2,
+      "sample_values": [
+        "120213655495700765",
+        "120213655495700765",
+        "120213655495700765",
+        "120213655495700765",
+        "120213655495700765"
+      ],
+      "all_values": [
+        "120213655495700765",
+        "120223951800200765"
+      ],
+      "data_type": "NUMERIC",
+      "likely_purpose": "GENERAL"
+    },
+    "phPaAW2mN1KrjtQuSSew": {
+      "field_id": "phPaAW2mN1KrjtQuSSew",
+      "total_contacts": 370,
+      "unique_values": 11,
+      "sample_values": [
+        "120225673441850765",
+        "120225673441850765",
+        "120225673441820765",
+        "120225673441850765",
+        "120225492063840765"
+      ],
+      "all_values": [
+        "120216517192480765",
+        "120216594856000765",
+        "120223951800210765",
+        "120225119358040765",
+        "120225119358050765",
+        "120225492063830765",
+        "120225492063840765",
+        "120225492223680765",
+        "120225492223720765",
+        "120225673441820765",
+        "120225673441850765"
+      ],
+      "data_type": "NUMERIC",
+      "likely_purpose": "CREDIT_SCORE"
+    },
+    "FSIc6ju162mN3K8IUbD8": {
+      "field_id": "FSIc6ju162mN3K8IUbD8",
+      "total_contacts": 375,
+      "unique_values": 75,
+      "sample_values": [
+        "76.79.213.94",
+        "174.65.247.176",
+        "2600:100e:b18c:54d3:49c7:f2f3:637e:2b53",
+        "161.129.193.35",
+        "2600:100c:a121:d1ef:79c2:3c2a:ed1f:3c7d"
+      ],
+      "all_values": [
+        "104.203.12.87",
+        "108.54.225.31",
+        "161.129.193.35",
+        "162.142.106.222",
+        "168.103.129.224",
+        "170.89.115.21",
+        "172.56.152.23",
+        "172.56.200.127",
+        "174.128.181.4",
+        "174.65.247.176",
+        "208.68.64.139",
+        "216.103.158.27",
+        "24.137.225.31",
+        "2600:1000:b011:a9d0:88c9:1de7:ee9c:8cfd",
+        "2600:1001:a110:b9b6:bc1f:5780:2c0e:84c5",
+        "2600:1004:b092:ea3e:75e4:ddd3:9379:6e68",
+        "2600:1005:b23f:1529:9039:1e6f:6667:2c2f",
+        "2600:1006:a021:ca2b:60e6:b5aa:e079:6ff0",
+        "2600:100c:a121:d1ef:79c2:3c2a:ed1f:3c7d",
+        "2600:100e:b18c:54d3:49c7:f2f3:637e:2b53"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "hWiYPVIxzb8z69ZSqP1j": {
+      "field_id": "hWiYPVIxzb8z69ZSqP1j",
+      "total_contacts": 435,
+      "unique_values": 16,
+      "sample_values": [
+        "1751328000000",
+        "1751328000000",
+        "1751328000000",
+        "1751328000000",
+        "1751328000000"
+      ],
+      "all_values": [
+        "1738195200000",
+        "1738281600000",
+        "1738540800000",
+        "1739577600000",
+        "1739664000000",
+        "1739750400000",
+        "1740960000000",
+        "1742688000000",
+        "1742860800000",
+        "1748217600000",
+        "1749081600000",
+        "1749600000000",
+        "1751068800000",
+        "1751155200000",
+        "1751241600000",
+        "1751328000000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    },
+    "w0MiykFb25fTTFQla3bu": {
+      "field_id": "w0MiykFb25fTTFQla3bu",
+      "total_contacts": 70,
+      "unique_values": 3,
+      "sample_values": [
+        "1751414400000",
+        "1751414400000",
+        "1751500800000",
+        "1751241600000",
+        "1751414400000"
+      ],
+      "all_values": [
+        "1751241600000",
+        "1751414400000",
+        "1751500800000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    },
+    "OOoQSSSoCsRSFlaeThRs": {
+      "field_id": "OOoQSSSoCsRSFlaeThRs",
+      "total_contacts": 70,
+      "unique_values": 3,
+      "sample_values": [
+        "1751241600000",
+        "1751241600000",
+        "1751241600000",
+        "1751241600000",
+        "1751155200000"
+      ],
+      "all_values": [
+        "1751068800000",
+        "1751155200000",
+        "1751241600000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    },
+    "dlLft6RcIbNiHTuDFXaK": {
+      "field_id": "dlLft6RcIbNiHTuDFXaK",
+      "total_contacts": 40,
+      "unique_values": 2,
+      "sample_values": [
+        "Yes",
+        "No",
+        "No",
+        "No",
+        "No"
+      ],
+      "all_values": [
+        "No",
+        "Yes"
+      ],
+      "data_type": "BOOLEAN",
+      "likely_purpose": "GENERAL"
+    },
+    "O8NBb6R5CNUfJXka2599": {
+      "field_id": "O8NBb6R5CNUfJXka2599",
+      "total_contacts": 40,
+      "unique_values": 7,
+      "sample_values": [
+        "has personal loan + paid home\n740 credit score\npc - boa, citi, capital one, care credit (medical)\n$45kish total \n\nbusiness cc - 34k (maxed) and chase, us bank 10k.\n\nHer profile looks great but\n\nUnfortunately she's going through a divorce and not willing to move forward at the price point",
+        "no show",
+        "No show",
+        "Applied to Chase for a $150k loan - does not need more.",
+        "No Show"
+      ],
+      "all_values": [
+        "720 on Experian, clean 24 months but utilization is 39%.  He's taking out a home equity loan to pay down the card and increase his revolving credit - only at 37k so far.  DQ for now",
+        "Applied to Chase for a $150k loan - does not need more.",
+        "No Show",
+        "No show",
+        "PRISTINE profile, except for only $10k in CCs - DQ",
+        "has personal loan + paid home\n740 credit score\npc - boa, citi, capital one, care credit (medical)\n$45kish total \n\nbusiness cc - 34k (maxed) and chase, us bank 10k.\n\nHer profile looks great but\n\nUnfortunately she's going through a divorce and not willing to move forward at the price point",
+        "no show"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "JrHrEFdQ055Q0HJ3PiDE": {
+      "field_id": "JrHrEFdQ055Q0HJ3PiDE",
+      "total_contacts": 40,
+      "unique_values": 3,
+      "sample_values": [
+        "Completed",
+        "No Show",
+        "No Show",
+        "Canceled",
+        "No Show"
+      ],
+      "all_values": [
+        "Canceled",
+        "Completed",
+        "No Show"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "GENERAL"
+    },
+    "rq6fbGioNYeOwLQQpB9Z": {
+      "field_id": "rq6fbGioNYeOwLQQpB9Z",
+      "total_contacts": 15,
+      "unique_values": 2,
+      "sample_values": [
+        "1751414400000",
+        "1751328000000",
+        "1751328000000",
+        "1751414400000",
+        "1751328000000"
+      ],
+      "all_values": [
+        "1751328000000",
+        "1751414400000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    },
+    "n5pI8Nnu2YHTgSsL2mOB": {
+      "field_id": "n5pI8Nnu2YHTgSsL2mOB",
+      "total_contacts": 25,
+      "unique_values": 5,
+      "sample_values": [
+        "1740873600000",
+        "1741478400000",
+        "1741132800000",
+        "1740960000000",
+        "1740614400000"
+      ],
+      "all_values": [
+        "1740614400000",
+        "1740873600000",
+        "1740960000000",
+        "1741132800000",
+        "1741478400000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    },
+    "cZsCHckmPBPzQV9z9VQ7": {
+      "field_id": "cZsCHckmPBPzQV9z9VQ7",
+      "total_contacts": 25,
+      "unique_values": 3,
+      "sample_values": [
+        "1741219200000",
+        "1741478400000",
+        "1741219200000",
+        "1740960000000",
+        "1740960000000"
+      ],
+      "all_values": [
+        "1740960000000",
+        "1741219200000",
+        "1741478400000"
+      ],
+      "data_type": "TIMESTAMP",
+      "likely_purpose": "GENERAL"
+    }
+  },
+  "fa_fields": {
+    "XipmrnXqV46DDxVrDiYS": {
+      "field_id": "XipmrnXqV46DDxVrDiYS",
+      "total_contacts": 375,
+      "unique_values": 7,
+      "sample_values": [
+        "ig_Instagram_Feed",
+        "ig_Instagram_Feed",
+        "ig_Instagram_Feed",
+        "fb_Facebook_Mobile_Reels",
+        "ig_Instagram_Feed"
+      ],
+      "all_values": [
+        "_",
+        "fb_Facebook_Mobile_Feed",
+        "fb_Facebook_Mobile_Reels",
+        "ig_Instagram_Explore",
+        "ig_Instagram_Feed",
+        "ig_Instagram_Reels",
+        "ig_Instagram_Stories"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "Q0KWavjuX7YuGrtJaC6k": {
+      "field_id": "Q0KWavjuX7YuGrtJaC6k",
+      "total_contacts": 370,
+      "unique_values": 11,
+      "sample_values": [
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 146 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 140 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads"
+      ],
+      "all_values": [
+        "01 | 140 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 141 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 145 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 146 | FA-Matt-P-Website-v4 | LC | Auto | Return On Investment | US | MF | 25-55 | Image Ads",
+        "01 | 50 | FA-Matt-P-Website | LC | Auto | Broad | US | MF | 18-65",
+        "01 | 51 | FA-Matt-P-Website | LC | Auto | Return On Investment | US | MF | 18-65",
+        "B0 | 02 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 06 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 07 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 09 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65",
+        "B0 | 10 | FA-Matt-R1-R2-Website-V4 | LC | Auto | US | MF | 18-65"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "cj09pOhxqE4WOOKqQVhK": {
+      "field_id": "cj09pOhxqE4WOOKqQVhK",
+      "total_contacts": 370,
+      "unique_values": 2,
+      "sample_values": [
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "01 | FA | Matt | P | Website | Conversions | ABO"
+      ],
+      "all_values": [
+        "01 | FA | Matt | P | Website | Conversions | ABO",
+        "B0 | FA | Matt | R1/R2/R3/R4 | Website-v4 | Conversions | ABO |"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "dydJfZGjUkyTmGm4OIef": {
+      "field_id": "dydJfZGjUkyTmGm4OIef",
+      "total_contacts": 370,
+      "unique_values": 11,
+      "sample_values": [
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 146 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 140 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |"
+      ],
+      "all_values": [
+        "01 | 140 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 141 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 145 | 01 | FA-Matt-P-Website-v4 | This virtual card program allows US citizens to access up to 100k - Image | CO-01C | HE-01C | 122131994150707290 |",
+        "01 | 146 | 01 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |",
+        "01 | 50 | 01 | FA-Matt-P-Website | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+        "01 | 51 | 01 | FA-Matt-P-Website | Emily - Access to Funding Not a High Interest Loan - Script 2 - Bank - Black Shirt | CO-01C | HE-01C | UGC |",
+        "B0 | 02 | 01 | FA-Matt-P-Website-V4 | R1/R2 | How to Live on 0% Funding for 2-5 Years with Balance Transfers and Multiple Funding Rounds | CO-12B | HE-01C |",
+        "B0 | 06 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Oscar Creatify AI | 1.25x I never thought it'd be possible to get 100k with | CO-28C | HE-01C |",
+        "B0 | 07 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Jen Creatify AI | 1.25x Speed - Never thought it'd be possible to get $100k | CO-27C | HE-01C |",
+        "B0 | 09 | 01 | R1/R2 | FA-Matt-P-Website-v4 | 700 credit score - new program helps you access 100k-250k funding | CO-01C | HE-01C | 122131994108707290",
+        "B0 | 10 | 01 | R1/R2 | FA-Matt-P-Website-v4 | Banks have reopened program that us citizens to access up to 250k apr business funding - Image | CO-01C | HE-01C | 122131994168707290 |"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "FSIc6ju162mN3K8IUbD8": {
+      "field_id": "FSIc6ju162mN3K8IUbD8",
+      "total_contacts": 375,
+      "unique_values": 75,
+      "sample_values": [
+        "76.79.213.94",
+        "174.65.247.176",
+        "2600:100e:b18c:54d3:49c7:f2f3:637e:2b53",
+        "161.129.193.35",
+        "2600:100c:a121:d1ef:79c2:3c2a:ed1f:3c7d"
+      ],
+      "all_values": [
+        "104.203.12.87",
+        "108.54.225.31",
+        "161.129.193.35",
+        "162.142.106.222",
+        "168.103.129.224",
+        "170.89.115.21",
+        "172.56.152.23",
+        "172.56.200.127",
+        "174.128.181.4",
+        "174.65.247.176",
+        "208.68.64.139",
+        "216.103.158.27",
+        "24.137.225.31",
+        "2600:1000:b011:a9d0:88c9:1de7:ee9c:8cfd",
+        "2600:1001:a110:b9b6:bc1f:5780:2c0e:84c5",
+        "2600:1004:b092:ea3e:75e4:ddd3:9379:6e68",
+        "2600:1005:b23f:1529:9039:1e6f:6667:2c2f",
+        "2600:1006:a021:ca2b:60e6:b5aa:e079:6ff0",
+        "2600:100c:a121:d1ef:79c2:3c2a:ed1f:3c7d",
+        "2600:100e:b18c:54d3:49c7:f2f3:637e:2b53"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    },
+    "O8NBb6R5CNUfJXka2599": {
+      "field_id": "O8NBb6R5CNUfJXka2599",
+      "total_contacts": 40,
+      "unique_values": 7,
+      "sample_values": [
+        "has personal loan + paid home\n740 credit score\npc - boa, citi, capital one, care credit (medical)\n$45kish total \n\nbusiness cc - 34k (maxed) and chase, us bank 10k.\n\nHer profile looks great but\n\nUnfortunately she's going through a divorce and not willing to move forward at the price point",
+        "no show",
+        "No show",
+        "Applied to Chase for a $150k loan - does not need more.",
+        "No Show"
+      ],
+      "all_values": [
+        "720 on Experian, clean 24 months but utilization is 39%.  He's taking out a home equity loan to pay down the card and increase his revolving credit - only at 37k so far.  DQ for now",
+        "Applied to Chase for a $150k loan - does not need more.",
+        "No Show",
+        "No show",
+        "PRISTINE profile, except for only $10k in CCs - DQ",
+        "has personal loan + paid home\n740 credit score\npc - boa, citi, capital one, care credit (medical)\n$45kish total \n\nbusiness cc - 34k (maxed) and chase, us bank 10k.\n\nHer profile looks great but\n\nUnfortunately she's going through a divorce and not willing to move forward at the price point",
+        "no show"
+      ],
+      "data_type": "TEXT",
+      "likely_purpose": "FA_RELATED"
+    }
+  },
+  "potential_mql_fields": {
+    "credit_score": "O8NBb6R5CNUfJXka2599",
+    "bankruptcy_history": "O8NBb6R5CNUfJXka2599"
+  },
+  "discovery_timestamp": "20250702_161938"
+}
