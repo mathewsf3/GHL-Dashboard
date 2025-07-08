@@ -1,5 +1,13 @@
 'use client';
 
+// Temporary debug - remove after testing
+if (typeof window !== 'undefined') {
+  console.log('Environment check on client - this should be empty:', {
+    META: process.env.META_ACCESS_TOKEN,
+    GHL: process.env.GHL_API_KEY
+  });
+}
+
 import { useState } from 'react';
 import { motion } from 'framer-motion';
 import { RefreshCw, TrendingUp, Calendar, AlertCircle } from 'lucide-react';
